@@ -5,4 +5,4 @@ This file is part of the supplementary materials for CVPR-22 submission, paper I
 
 VGG_imagenette, ResNet_imagenette belong to Section 6, and CIFAR10/MNIST_with/without_MAX_Trust belong to Section 7.
 
-Trained model parameters are in folder. Results are in result data folder.
+Trained model variables are in the parameters folder. Results are in result data folder.
